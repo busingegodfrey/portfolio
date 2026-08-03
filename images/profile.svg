@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="32" fill="url(#bg)"/>
+  <circle cx="200" cy="155" r="85" fill="#e2e8f0"/>
+  <path d="M120 250c18-36 45-55 80-55s62 19 80 55" fill="#f8fafc"/>
+  <path d="M90 285c25-25 58-40 110-40s85 15 110 40" fill="url(#water)"/>
+  <path d="M115 315c25-18 55-27 85-27s60 9 85 27" fill="#0284c7" opacity="0.8"/>
+  <circle cx="185" cy="150" r="7" fill="#0f172a"/>
+  <circle cx="215" cy="150" r="7" fill="#0f172a"/>
+  <path d="M175 182c15 14 35 14 50 0" stroke="#0f172a" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>
