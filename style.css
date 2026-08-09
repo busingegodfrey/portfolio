@@ -526,4 +526,8 @@ footer p + p {
     #contact {
         margin: 0 3%;
     }
+    .marquee {
+                font-family : italic;
+                color : green;
+    }
 }
