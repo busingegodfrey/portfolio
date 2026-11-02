@@ -398,10 +398,12 @@ main {
     transform: translateY(-8px);
 }
 
-.skill i {
-    font-size: 55px;
-    color: var(--primary);
-    margin-bottom: 20px;
+.skill-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin: 0 auto 20px;
 }
 
 .skill h3 {
